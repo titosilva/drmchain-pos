@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Nascimento Silva
+    given-names: João Tito
+    orcid: https://orcid.org/0009-0004-0328-0404
+title: "drmchain-pos: an implementation of the PoDlE consensus algorithm for drmchain"
+version: 2.0.4
+date-released: 2024-02-02
