@@ -1,0 +1,6 @@
+github.com/titosilva/pdpr-go v0.0.0-20250123000626-bb1fbe652dd0 h1:0W+WOZm8FvFb27t3iCeWWdMIykPhDgJQwy4MGK0em0w=
+github.com/titosilva/pdpr-go v0.0.0-20250123000626-bb1fbe652dd0/go.mod h1:/S5TWROBTCNe5XVc4JlCHV97cw9USXWWvAJEV5ke82Q=
+github.com/titosilva/pdpr-go v0.1.0 h1:EFlK0+dik1Zg+t5EOxPnZUplor8R7xqUF9m9N5V0wD8=
+github.com/titosilva/pdpr-go v0.1.0/go.mod h1:/S5TWROBTCNe5XVc4JlCHV97cw9USXWWvAJEV5ke82Q=
+golang.org/x/crypto v0.32.0 h1:euUpcYgM8WcP71gNpTqQCn6rC2t6ULUPiOzfWaXVVfc=
+golang.org/x/crypto v0.32.0/go.mod h1:ZnnJkOaASj8g0AjIduWNlq2NRxL0PlBrbKVyZ6V/Ugc=
